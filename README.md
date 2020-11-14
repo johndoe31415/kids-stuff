@@ -16,3 +16,6 @@ everywhere). Close jar, light at hole. See if can get to run continuously.
 
 ## Can Phone
 Two tin cans, Nylon string, build a can phone.
+
+## Grow Physarum Polycephalum
+... and let it find a route through a labyrinth.
